@@ -25,7 +25,7 @@
             <groupId>app</groupId>
             <artifactId>accessmanager</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <!--<optional>true</optional>-->
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>com.googlecode.libphonenumber</groupId>
